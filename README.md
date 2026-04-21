@@ -37,8 +37,8 @@ Developed actionable recommendations
 *  Customers: ~6K
 *  Churn Rate: 49%
 *  Delivery Success Rate: 34%
-*  
-#### **Key Insights**
+
+### **Key Insights**
 * Declining Demand: Revenue and orders show a consistent downward trend
 * High Churn: Nearly half of customers are not retained
 * Delivery Issues: Delayed orders nearly match successful deliveries
