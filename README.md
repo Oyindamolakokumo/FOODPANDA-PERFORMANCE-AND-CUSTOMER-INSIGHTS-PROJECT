@@ -5,12 +5,12 @@ This project presents a Power BI dashboard analyzing Foodpanda’s business perf
 
 ### **Scope**
 This analysis focuses on:
-Revenue and order trends over time
-Customer behavior and churn patterns
-Delivery performance and operational efficiency
-Geographic performance across major cities
-Category and restaurant-level contributions
-Payment method distribution
+* Revenue and order trends over time
+* Customer behavior and churn patterns
+* Delivery performance and operational efficiency
+* Geographic performance across major cities
+* Category and restaurant-level contributions
+* Payment method distribution
 
 ### **Methodology**
 The project follows a structured data analysis workflow:
@@ -58,6 +58,8 @@ Developed actionable recommendations
 * Data Modeling
 * Data Visualization
 
+<img width="640" height="552" alt="FOODPANDA DASHBOARD" src="https://github.com/user-attachments/assets/3470c0e8-dace-4935-a65f-c685ed6e60dc" />
+
 ### **Dashboard Features**
 * Interactive filters and slicers
 * City and category-level breakdowns
@@ -72,5 +74,4 @@ This project is ideal for:
 * Operational efficiency improvement
 * Data storytelling and dashboard design
 
-📬 Contact
-Feel free to connect for feedback, collaboration, or opportunities.
+
