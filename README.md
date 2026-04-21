@@ -74,4 +74,12 @@ This project is ideal for:
 * Operational efficiency improvement
 * Data storytelling and dashboard design
 
+### Contact
+Interested in this project or want to collaborate?
+
+* Email: dahmorlahmie@gmail.com
+* GitHub: https://github.com/oyindamolakokumo
+
+I’m open to data analytics roles, collaborations, and project discussions.
+
 
