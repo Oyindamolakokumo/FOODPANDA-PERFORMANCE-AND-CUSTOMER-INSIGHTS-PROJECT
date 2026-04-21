@@ -3,7 +3,7 @@
 ### **PROJECT OVERVIEW**
 This project presents a Power BI dashboard analyzing Foodpanda’s business performance, focusing on revenue trends, customer behavior, and delivery operations. The goal is to uncover key drivers of declining demand and high churn, and provide actionable insights to improve performance.
 
-**Scope**
+### **Scope**
 This analysis focuses on:
 Revenue and order trends over time
 Customer behavior and churn patterns
@@ -11,11 +11,8 @@ Delivery performance and operational efficiency
 Geographic performance across major cities
 Category and restaurant-level contributions
 Payment method distribution
-Out of Scope:
-Real-time data streaming
-External market/competitor analysis
-Predictive or machine learning modeling
-⚙️ Methodology
+
+### **Methodology**
 The project follows a structured data analysis workflow:
 1. Data Preparation
 Cleaned and validated dataset
@@ -40,39 +37,35 @@ Developed actionable recommendations
 *  Customers: ~6K
 *  Churn Rate: 49%
 *  Delivery Success Rate: 34%
-#### Key Insights
+*  
+#### **Key Insights**
 * Declining Demand: Revenue and orders show a consistent downward trend
 * High Churn: Nearly half of customers are not retained
 * Delivery Issues: Delayed orders nearly match successful deliveries
 * City Opportunity: Karachi underperforms relative to its size
 * Brand Dependency: Revenue heavily relies on global fast-food chains
 
-### Recommendations
+### **Recommendations**
 * Improve delivery logistics to reduce delays
 * Introduce loyalty and retention programs
 * Re-engage inactive customers with targeted campaigns
 * Expand partnerships with local restaurants
 * Focus growth strategy on underperforming cities
 
- ###Tools & Technologies
+ ### **Tools**
 * Power BI
 * DAX (Data Analysis Expressions)
 * Data Modeling
 * Data Visualization
 
-📊 Dashboard Features
+### **Dashboard Features**
 * Interactive filters and slicers
 * City and category-level breakdowns
 * Customer segmentation analysis
 * Delivery performance tracking
 * Trend analysis over time
 
-🚀 Getting Started
-1. Download the .pbix file
-2. Open in Power BI Desktop
-3. Explore the dashboard using filters and visuals
-
-📎 Use Case
+### **Use Case**
 This project is ideal for:
 * Business performance analysis
 * Customer retention strategy
